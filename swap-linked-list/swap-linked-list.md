@@ -36,8 +36,8 @@ The recursive function `swapRecursive` performs the following steps:
 
 1. **Base Case**: If there is only one node or no node left to swap, return the node.
 2. **Swapping Nodes**:
-   - Keep a reference to the first node (`first`), the second node (`second`), and the third node (`third`).
-   - Recursively call `swapRecursive` on the third node, continuing the swapping down the list.
+   - Keep a reference to the first node (`first`) and the second node (`second`).
+   - Recursively call `swapRecursive` next node, continuing the swapping down the list.
    - Adjust pointers so that `second` points to `first`, and `first` now points to the swapped result from the recursive call.
 
 ### Solution Walkthrough
