@@ -10,3 +10,4 @@ AI was not used in any of these. The solutions are based on my understanding of 
 
 - [Linked List Recursive Swapping Challenge](swap-linked-list/swap-linked-list.md)
 - [Element Ratios Challenge](element-ratios/element-ratios.md)
+- [Mini Max Sum Challenge](mini-max-sum/mini-max-sum.md)
